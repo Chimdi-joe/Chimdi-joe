@@ -27,7 +27,7 @@ Most of my current production work is private. Public case studies and additiona
 
 ## Current role
 
-I lead product, design and technology at **Tenyne Innovation Limited**.
+I lead product, design and technology at **Tenyne, Inc.**.
 
 ## Opportunities
 

@@ -19,11 +19,15 @@ I enjoy turning complex, loosely defined opportunities into clear product direct
 
 ## Selected public work
 
+### [Agent Governance Reference](https://github.com/Chimdi-joe/agent-governance-reference)
+
+An executable TypeScript reference for fail-closed agent authorization, pinned specifications, budgets, human approvals, idempotency, tamper-evident audit receipts and governed memory. It includes seven control-focused tests and a documented threat model.
+
 ### [Noma AI — exploratory prototype](https://github.com/Chimdi-joe/noma-ai)
 
 A 2024 experiment exploring weather-informed farming insights and responsive product design. This public prototype is separate from the later private SmartNoma product and does not contain SmartNoma’s source code.
 
-Most of my current production work is private. Public case studies and additional reference implementations are being prepared.
+Most of my current production work is private. This public reference implementation and the Noma AI prototype provide inspectable examples; additional sanitized case studies are being prepared.
 
 ## Current role
 

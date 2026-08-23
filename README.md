@@ -19,6 +19,10 @@ I enjoy turning complex, loosely defined opportunities into clear product direct
 
 ## Selected public work
 
+### [SmartNoma — product, design and AI safety case study](https://github.com/Chimdi-joe/smartnoma-product-case-study)
+
+A sanitised case study of a private offline-first, bilingual agricultural advisory platform. It presents verified implementation scope, product and interaction decisions, AI safety controls and explicit evidence boundaries without exposing production source or private operational details.
+
 ### [Agent Governance Reference](https://github.com/Chimdi-joe/agent-governance-reference)
 
 An executable TypeScript reference for fail-closed agent authorization, pinned specifications, budgets, human approvals, idempotency, tamper-evident audit receipts and governed memory. It includes seven control-focused tests and a documented threat model.
@@ -27,7 +31,7 @@ An executable TypeScript reference for fail-closed agent authorization, pinned s
 
 A 2024 experiment exploring weather-informed farming insights and responsive product design. This public prototype is separate from the later private SmartNoma product and does not contain SmartNoma’s source code.
 
-Most of my current production work is private. This public reference implementation and the Noma AI prototype provide inspectable examples; additional sanitized case studies are being prepared.
+Most of my current production work is private. These public assets provide inspectable evidence across product design, hands-on engineering and dependable AI systems while preserving the confidentiality of the underlying private work.
 
 ## Current role
 
